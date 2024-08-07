@@ -1,5 +1,5 @@
 <Div align="center">
-    <img src="https://i.postimg.cc/3Rbr23nJ/UTN-Logo.png" alt="Texto alternativo" style="width: auto; height: 100%;"/>
+    <img src="https://i.postimg.cc/3Rbr23nJ/UTN-Logo.png="Texto alternativo" style="width: auto; height: 100%;"/>
 </div>
 
 
