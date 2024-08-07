@@ -116,9 +116,7 @@ repeticiones eventuales de algunos de ellos.
 
 
 $$
-
 CR(n, x) = \binom{n+x-1}{x} = \frac{(n+x-1)!}{x!(n-1)!}
-
 $$
 
 
@@ -131,11 +129,9 @@ del conjunto.
 
 
 ​
-**$$
-
+$$
 C(n, x) = \binom{n}{x} = \frac{n!}{x!(n-x)!}
-
-$$**
+$$
 
 
 
@@ -157,6 +153,7 @@ $$
 distintas maneras en que se pueden ordenar
 𝑛 elementos únicos. En este caso, cada elemento 
 solo puede aparecer una vez en cada ordenación.
+
 $$
 P(n) = n!
 $$
