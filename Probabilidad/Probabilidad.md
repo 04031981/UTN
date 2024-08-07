@@ -126,13 +126,10 @@ x elementos, con x < n, elegidos entre los n, a
 cualquier subconjunto de x elementos distintos 
 del conjunto.
 ​
+
 $$
 C(n, x) = \binom{n}{x} = \frac{n!}{x!(n-x)!}
 $$
-
-
-
-
 
 
 #### Permutaciones
